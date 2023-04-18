@@ -8,7 +8,7 @@ I will create Documents for every mandatory course first. **You are more than we
 
 ## Mandatory Courses:
 ### 1. Semester
-- Informatik Propädeutikum
+- [Informatik Propädeutikum](./Mandatory%20Courses/Informatik%20Prop%C3%A4deutikum.md)
 - Analysis 1 und Lineare Algebra für Ingenieurswissenschaften
 - Einführung in die Programmierung
 - Rechnerorganisation
